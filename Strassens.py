@@ -1,3 +1,5 @@
+# Python Program for Strassen's Matrix Multiplication for N x N Matrix 
+# Program Created by Riddhesh Bonde - FY M.Tech  V.J.T.I Mumbai
 def print_matrix(m, n):  # Printing Input Matrix
     for i in range(n):
         for j in range(n):
